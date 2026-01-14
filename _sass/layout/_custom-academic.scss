@@ -51,6 +51,27 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
 }
 
+@media (min-width: 1024px) {
+  .page {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    align-items: start;
+    gap: 2rem;
+  }
+
+  .page .sidebar {
+    position: sticky;
+    top: 80px;
+    height: fit-content;
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.1);
+  }
+
+  .page .page__content {
+    max-width: 900px;
+    margin: 0;
+  }
+}
+
 .page__content p {
   margin-bottom: 1.1rem;
 }
