@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV as PDF]({{ base_path }}/files/Zhengxi_CV.pdf)
+[Download CV as PDF]({{ base_path }}/files/Zhengxi_C_V.pdf)
 
 ## Education
 

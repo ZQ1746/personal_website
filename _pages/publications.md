@@ -8,7 +8,7 @@ author_profile: true
 ## Submitted Papers
 
 **Market Agent Nexus: Agent-Based Simulation for Financial Forecasting**  
-Kelvin J.L. Koa, Yuncong Liu, **Zhengxi Qian**, Qi Fu, Yunshan Ma, Ke-Wei Huang  
+Kelvin J.L. Koa, Yuncong Liu, **Zack C. H. Tsien**, Qi Fu, Yunshan Ma, Ke-Wei Huang  
 *Submitted to International Conference on Machine Learning (ICML), 2026*
 
 Proposed a unified framework simulating financial forecasts and investor behavior using real-life 13F disclosures and self-evolving agent loops.
